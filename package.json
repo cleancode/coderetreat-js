@@ -1,0 +1,20 @@
+{
+  "name": "gol",
+  "description": "Game of Life skeleton",
+  "version": "0.0.1",
+  "author": "Gabriele Lana <gabriele.lana@cleancode.it>",
+  "dependencies": {
+    "underscore": "latest",
+    "minimatch": "latest",
+    "connect": "latest",
+    "daemon": "latest",
+    "request": "latest",
+    "printf": "0.0.3",
+    "rimraf": "1.0.4",
+    "async": "latest",
+    "cli": "latest"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  }
+}
